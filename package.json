@@ -1,0 +1,32 @@
+{
+  "name": "versepolygon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@chakra-ui/react": "^3.1.2",
+    "@dynamic-labs/sdk-react": "^0.18.30",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@maticnetwork/maticjs": "^3.9.2",
+    "@maticnetwork/maticjs-ethers": "^1.1.0",
+    "@rainbow-me/rainbowkit": "^2.2.0",
+    "@wagmi/core": "^2.14.6",
+    "@worldcoin/id": "^0.9.2",
+    "framer-motion": "^11.11.17",
+    "react": "^18.3.1",
+    "wagmi": "^2.12.33",
+    "web3": "^4.15.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.15"
+  }
+}
